@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&background=2A1EFF00&random=false&width=435&lines=I'm+Adem%2C+I'm+Programming+enthusiast)](https://git.io/typing-svg)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100022888083591) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adem_rb3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ademberrabia) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Adem_Berrabia) 
